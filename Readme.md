@@ -186,11 +186,13 @@ Through this project, I improved my understanding of:
 
 ## Executive Overview
 
-(Add screenshot here)
+<img width="1167" height="668" alt="Executive Overview" src="https://github.com/user-attachments/assets/7d502b5b-bf28-4af5-b66d-ecc580e94060" />
+
 
 ## Product & Customer Insights
 
-(Add screenshot here)
+<img width="1172" height="670" alt="Product   Customer Insights" src="https://github.com/user-attachments/assets/faf50271-17a4-498d-aef0-76c2089bd1cd" />
+
 
 ---
 
